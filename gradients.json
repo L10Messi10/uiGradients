@@ -1532,5 +1532,10 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
-    }
+    },
+    {
+        "name": "Dark Visual",
+        "colors": ["#331243", "#264165"]
+    },
+  
 ]
